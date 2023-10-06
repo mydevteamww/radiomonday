@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Fahad And Sons",
+  "description": "Aurora Byte",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Radio - Hits",
+  "name": "Radio:Hits",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Radio - Hits",
+  "short_name": "Radio:Hits",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -49,7 +49,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Radio - Hits",
+      "name": "Radio:Hits",
       "url": "",
       "description": ""
     }
