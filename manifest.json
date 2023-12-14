@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "App By Dev Crafts",
+  "description": "Radio App By Brain Games",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Radio : Hits",
+  "name": "Radio :APP",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Radio : Hits",
+  "short_name": "Radio :APP",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -49,7 +49,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Radio : Hits",
+      "name": "Radio :APP",
       "url": "",
       "description": ""
     }
